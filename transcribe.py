@@ -43,6 +43,7 @@ while True:
                 file.write(i)
                 file.write("\n")
                 print("written transcript  "+i)
+                
 
 
         
